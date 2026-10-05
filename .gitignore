@@ -1,0 +1,11 @@
+# 原始语料（受版权保护，不随库分发；说明见 references/sources/README.md）
+references/sources/*
+!references/sources/README.md
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地成稿区（保留目录结构）
+validation/*
+!validation/.gitkeep
